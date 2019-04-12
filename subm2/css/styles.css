@@ -56,7 +56,7 @@ p {
     padding: 4px;
 } 
 h2 {
-    text-align: end;
+    text-align: center;
 }
 
 #ptitle {
@@ -70,13 +70,20 @@ h2 {
 .rightcontainer {
     float: right;
     width: 5em;
-    background-color: red;
     text-align: center;
 }
 #p_text {
     clear: both;
 }
-
+.background_blue {
+    background-color: aqua;
+}
+.background_orange {
+    background-color: orange;
+}
+.background_gold {
+    background-color: goldenrod;
+}
 
 
 
