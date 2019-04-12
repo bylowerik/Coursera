@@ -69,7 +69,9 @@ h2 {
 
 .rightcontainer {
     float: right;
+    width: 5em;
     background-color: red;
+    text-align: center;
 }
 #p_text {
     clear: both;
