@@ -1,0 +1,42 @@
+/* Navigation Style */
+#header-nav {
+    background-color: #385099;
+    font-size: 1.8em;
+    height: 60px;
+    font-weight: bold;
+}
+
+#brand {
+    color: #000000;
+}
+
+.navbar-collapse {
+    margin: 0;
+}
+
+#collapsable-nav span {
+        font-size: 1em;
+}
+
+#nav-list {
+    text-align: center;
+    background-color: #29c4a5;
+}
+
+/* Main content */
+
+.title{
+    font-size: 1.4em;
+    margin-top: 100px;
+}
+
+.title-item {
+    font-size: 1.2em;
+}
+
+#item-container {
+    background-color: #cfd6d1;
+    padding: 10px;
+    margin: 10px;
+}
+
